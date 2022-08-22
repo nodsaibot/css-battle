@@ -7,3 +7,8 @@
 ```html
 <body bgcolor=1E92FF style=box-shadow:inset+0-87q#6f6100,inset+0-129q#69d10a;width:9in;height:8cm><p><i><style>*{position:fixed;margin:0}p{width:20;height:80;background:#441A0A;top:100;left:50}i{background:#69d10a;width:40;color:69d10a;height:40;top:80;left:40;border-radius:50%;box-shadow:0-20px,-20px 0px,20px 0,270px 50px,270px 70px}
 ```
+
+## <img height=80  src=https://cssbattle.dev/targets/117.png> Arineo
+```html
+<p><p i><style>body{background:radial-gradient(circle at center,#0088ca 11px,#0000 0),linear-gradient(#fff 60px,#0000 0,#0000 240px,#fff 0),linear-gradient(115deg,#fff 185px,#2e2926 0,#2e2926 225px,#0000 0),linear-gradient(-115deg,#fff 185px,#2e2926 0,#2e2926 225px,#fff 0)}p,i{position:fixed;width:142;height:20;background:linear-gradient(45deg,#fff 20px,#0088ca 0);border:solid+8px#fff;top:76;left:114;transform:rotate(45deg);transform-origin:0 0}[i]{border-left:none;width:179;top:168;left:194;transform:rotate(-45deg);background:linear-gradient(-45deg,#fff 20px,#0088ca 0)}
+```
