@@ -13,7 +13,7 @@
 <body bgcolor=62375 style=margin:0+50;border:dashed+53q#fdc57b;clip-path:inset(53q+0>
 ```
 
-## <img src= height=80> Ups n downs
+## <img src=https://cssbattle.dev/targets/4.png height=80> Ups n downs
 ```html
 <a><b><style>*{background:#62306D;position:fixed}a,b{width:25%;height:25vw;border-radius:50%50% 0 0;background:#F7EC7D;margin:42 142}b{margin:100-100;border-radius:0 0 50%50%;box-shadow:50vw 0#F7EC7D
 ```
@@ -22,3 +22,8 @@
 ```html
 <b><a><style>*{background:#0B2429;position:fixed}b,a{height:120;width:120;background:#F3AC3C}b{border-radius:50%;margin:22 192}a{margin:120-120;border-radius:50%0 50%50%;box-shadow:60px -60px#998235
 ```
+
+## <img src=https://cssbattle.dev/targets/6.png height=80> Missing slice
+```html
+<body style=background:radial-gradient(3cm,#0000+88%,#E3516E+0),conic-gradient(#FADE8B+25%,#E3516E+0+50%,#F7F3D7+0+75%,#51B5A9+0>
+``` 
