@@ -26,4 +26,9 @@
 ## <img src=https://cssbattle.dev/targets/6.png height=80> Missing slice
 ```html
 <body style=background:radial-gradient(3cm,#0000+88%,#E3516E+0),conic-gradient(#FADE8B+25%,#E3516E+0+50%,#F7F3D7+0+75%,#51B5A9+0>
-``` 
+```
+
+## <img src=https://cssbattle.dev/targets/7.png height=80> leafy
+```html
+<body bgcolor=0B2429 style=border-radius:67%0;margin:75.4+85.1%75.4-90;box-shadow:7.01cm+0#F3AC3C,56.86mm+0#998235,55vh+0#1A4341>
+```
