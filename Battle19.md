@@ -6,3 +6,7 @@
 ```html
 <p><p i><style>body{background:#d25b70}p,p:before,p:after{width:10;height:100;background:#f2e09f;border-radius:5px;margin:80 auto;content:"";position:fixed}p{position:relative}p:before{transform:rotate(30deg);left:230;top:10}p:after{transform:rotate(-30deg);left:160;top:10}[i]{transform:rotate(90deg);top:-110;left:-70;box-shadow:0 -140px#f2e09f}[i]:before{left:-35;top:-89}[i]:after{left:-35;top:-211}
 ```
+## <img src=https://cssbattle.dev/targets/113.png height=80> Black light
+```html
+<body style=background:linear-gradient(3.6deg,#5776f6+125px,#0000+0),linear-gradient(-3.6deg,#191919+200px,#5776f6+0>
+```
