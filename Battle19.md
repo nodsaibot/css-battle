@@ -10,3 +10,7 @@
 ```html
 <body style=background:linear-gradient(3.6deg,#5776f6+125px,#0000+0),linear-gradient(-3.6deg,#191919+200px,#5776f6+0>
 ```
+## <img src=https://cssbattle.dev/targets/116.png height=80> Headphones
+```html
+<p><i><e><style>*{background:#293d7e;color:#6e91ca}p{width:130;height:110;border:solid 20px;margin:45 auto;border-radius:1in 1in 0 0;border-bottom:none}i,e{position:fixed;content:0;width:60;height:80;background:#6e91ca;top:165;left:115;border-radius:0 27q 40q 40q}e{left:225;border-radius:27q 0 40q 40q
+```
