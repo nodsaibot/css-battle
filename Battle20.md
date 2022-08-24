@@ -12,3 +12,11 @@
 ```html
 <p><p i><style>body{background:radial-gradient(circle at center,#0088ca 11px,#0000 0),linear-gradient(#fff 60px,#0000 0,#0000 240px,#fff 0),linear-gradient(115deg,#fff 185px,#2e2926 0,#2e2926 225px,#0000 0),linear-gradient(-115deg,#fff 185px,#2e2926 0,#2e2926 225px,#fff 0)}p,i{position:fixed;width:142;height:20;background:linear-gradient(45deg,#fff 20px,#0088ca 0);border:solid+8px#fff;top:76;left:114;transform:rotate(45deg);transform-origin:0 0}[i]{border-left:none;width:179;top:168;left:194;transform:rotate(-45deg);background:linear-gradient(-45deg,#fff 20px,#0088ca 0)}
 ```
+## <img src=https://cssbattle.dev/targets/122.png height=80> Tetris
+```html
+<style>*{background:#173889}body{width:45;height:45;background:#ee4f63;color:ee4f63;position:fixed;left:246;top:-8;box-shadow:-51px 51px,0 51px,-204px 102px#f8da37,-153px 102px#f8da37,-51px 102px,-204px 153px#f8da37,-153px 153px#f8da37,-102px 153px,0 153px#b069f7,-204px 204px,-153px 204px,-102px 204px,-51px 204px#2ce1ea,0 204px#b069f7,51px 204px#b069f7,-204px 255px#f8da37,-153px 255px#2ce1ea,-102px 255px#2ce1ea,-51px 255px#2ce1ea,0 255px#b069f7,51px 255px#2ce1ea
+```
+## <img src=https://cssbattle.dev/targets/119.png height=80> Pacman
+```html
+<p><i><e><style>body{background:#000;display:flex;align-items:center}*{position:fixed}p{border:solid 30px#E0E246;border-right-color:#0000;border-radius:50%;left:60;top:110q}e{width:10;height:10;background:#fff;border-radius:50%;left:165;top:145;box-shadow:30px 0#fff, 60px 0#fff}i{width:60;height:60;background:#c74e4e;border-radius:50px 50px 0 0;left:280;top:120}i:after{content:"";width:20;height:20;background:#000;position:absolute;bottom:-12;transform:rotate(45deg);box-shadow:14px -15px#000, 28px -29px#000
+```
