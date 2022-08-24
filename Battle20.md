@@ -20,7 +20,8 @@
 ```html
 <p><i><e><style>body{background:#000;display:flex;align-items:center}*{position:fixed}p{border:solid 30px#E0E246;border-right-color:#0000;border-radius:50%;left:60;top:110q}e{width:10;height:10;background:#fff;border-radius:50%;left:165;top:145;box-shadow:30px 0#fff, 60px 0#fff}i{width:60;height:60;background:#c74e4e;border-radius:50px 50px 0 0;left:280;top:120}i:after{content:"";width:20;height:20;background:#000;position:absolute;bottom:-12;transform:rotate(45deg);box-shadow:14px -15px#000, 28px -29px#000
 ```
-## <img src=https://cssbattle.dev/targets/120.png> Tank
+## <img src=https://cssbattle.dev/targets/120.png height=80> Tank
 ```html
-<p a><p m><p r><p t><style>body{margin:0;border:solid+20px #54c144;background:#000;}p{position:fixed;background:#c74e4e;}[a]{width:80;height:40;top:44;left:60;box-shadow:120px 0#c74e4e;}[m]{width:200;height:40;top:124;left:60;}[r]{width:40;height:180;top:44;left:300;}[t]{background:#54c144;top:189;left:70;width:20;height:30;}[t]:before{content:"";width:40;height:10;background:#54c144;position:absolute;left:-10;top:-5;box-shadow:0 30px#54c144,10px 15px#54c144;}[t]:after{content:"";height:10;width:10;background:#fff;position:absolute;right:-40;top:10;box-shadow:20px 0#fff
+<p a><p m><p r><p t><style>body{margin:0;border:solid+20px#54c144;background:#000}p{position:fixed;background:#c74e4e}[a]{width:80;height:40;top:44;left:60;box-shadow:120px+0#c74e4e}[m]{width:200;height:40;top:124;left:60}[r]{width:40;height:180;top:44;left:300}[t]{background:#54c144;top:189;left:70;width:20;height:30}[t]:before{content:"";width:40;height:10;background:#54c144;position:fixed;left:-10;top:-5;box-shadow:0+30px#54c144,10px+15px#54c144}[t]:after{content:"";height:10;width:10;background:#fff;position:fixed;right:-40;top:10;box-shadow:20px+0#fff
+
 ```
